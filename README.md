@@ -35,8 +35,8 @@ The Trophy can be passed without a quorum vote if the following conditions are m
 4. All winners of the next trophy must be governance members
 
 ## Addresses
-Deployed on Main Net and Ropsten.
-CIF Trophy: 0xC1f000000234AF1E3770eB17fA0C837E703f9b29
+Deployed on Main Net and Ropsten.  
+CIF Trophy (ERC721): 0xC1f000000234AF1E3770eB17fA0C837E703f9b29  
 CIF Governance: 0xC1FffFff65E7521597195FE011dd96a044761315
 
 ## Tests

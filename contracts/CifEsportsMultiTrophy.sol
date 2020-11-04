@@ -6,6 +6,10 @@ import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
 
+
+/// @title CIF E-Sports Trophy Contract
+/// @author Matthias Nadler, University of Basel
+/// @notice Implements ERC721, Metadata and Enumerable interfaces.
 contract CifEsportsMultiTrophy is ERC721, Ownable  {
     using Counters for Counters.Counter;
     Counters.Counter private _trophyIds;
